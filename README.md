@@ -84,6 +84,7 @@ public class зrint : MonoBehaviour
 ## Задание 3
 
 - Оформляем отчет в виде документации на github (markdown-разметка).
+![image](https://github.com/enietoou/ad_in_gd_lab1/assets/74960429/aa762dad-2023-45ca-b557-6db7ad0eb773)
 
 
 ## Выводы
