@@ -75,11 +75,11 @@ public class зrint : MonoBehaviour
         
     }
 }
+
+```
 <img width="640" alt="Снимок экрана 2023-11-01 в 23 44 42" src="https://github.com/enietoou/ad_in_gd_lab1/assets/74960429/565791e2-8961-4a55-a059-33398ee3ad66">
 <img width="1440" alt="image" src="https://github.com/enietoou/ad_in_gd_lab1/assets/74960429/718fbb5a-ed51-4ccf-87be-fc7a1ccd2d2a">
 
-
-```
 
 ## Задание 3
 
